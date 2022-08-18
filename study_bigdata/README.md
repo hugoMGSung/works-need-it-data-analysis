@@ -43,7 +43,7 @@
 ## PyQt 2
 - PyQt5 학습
   - QtDesigner로 UI생성
-  - 네이버 API로 네이버뉴스, 영화 검색앱 만들기 [링크](https://github.com/hugoMGSung/StudyBigData/tree/main/pyqt03)
+  - 네이버 API로 네이버뉴스, 영화 검색앱 만들기 [링크](https://github.com/hugoMGSung/works-need-it-data-analysis/tree/main/study_bigdata/pyqt03)
   
 ![navernewsapi](https://raw.githubusercontent.com/hugoMGSung/works-need-it-data-analysis/main/study_bigdata/image/navernews_crawling.png)
 
