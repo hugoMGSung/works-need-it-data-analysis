@@ -7,7 +7,7 @@
 
 - JupyterNotebook 기본코드 확인
 
-<img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-analysis-2023/main/Images/bigdata001.jpg" width="600" alt="주피터노트북 기본코드">
+<img src="https://raw.githubusercontent.com/hugoMGSung/works-need-it-data-analysis/main/bigdata-analysis-2023/Images/bigdata001.jpg" width="600" alt="주피터노트북 기본코드">
 
 ## Day02
 - 빅데이터 라이브러리 활용
