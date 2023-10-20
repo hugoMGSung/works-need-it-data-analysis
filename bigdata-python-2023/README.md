@@ -58,10 +58,10 @@
         - 벅스 인기차트 상위곡 100 csv 저장
     - 코로나 중국 관광객(Chapter 04)
 
-<img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-python-2023/main/images/crawling01.png" width="700" alt="크롬버전">
+<img src="https://raw.githubusercontent.com/hugoMGSung/works-need-it-data-analysis/main/bigdata-python-2023/images/crawling01.png" width="700" alt="크롬버전">
 
 
-<img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-python-2023/main/images/crawling02.png" width="700" alt="크롬드라이버 최신판">
+<img src="https://raw.githubusercontent.com/hugoMGSung/works-need-it-data-analysis/main/bigdata-python-2023/images/crawling02.png" width="700" alt="크롬드라이버 최신판">
 
 ## 9일차
 - 파이썬 데이터분석 실습
@@ -71,16 +71,16 @@
 - 파이썬 데이터분석 실습
     - 제주도 핫플레이스 인스타그램 크롤링
 
-<img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-python-2023/main/images/crawling03.gif" width="700" alt="셀레니움 크롤링">
+<img src="https://raw.githubusercontent.com/hugoMGSung/works-need-it-data-analysis/main/bigdata-python-2023/images/crawling03.gif" width="700" alt="셀레니움 크롤링">
 
-<img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-python-2023/main/images/crawling04.png" width="700" alt="크롤링 결과">
+<img src="https://raw.githubusercontent.com/hugoMGSung/works-need-it-data-analysis/main/bigdata-python-2023/images/crawling04.png" width="700" alt="크롤링 결과">
 
 ## 11일차
 - 파이썬 데이터분석 실습
     - 제주도 핫플레이스 시각화
     - 워드클라우드
 
-<img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-python-2023/main/images/crawling05.png" width="700" alt="워드클라우드 결과">
+<img src="https://raw.githubusercontent.com/hugoMGSung/works-need-it-data-analysis/main/bigdata-python-2023/images/crawling05.png" width="700" alt="워드클라우드 결과">
 
 ## 12일차
 - 파이썬 데이터분석 실습
@@ -88,7 +88,7 @@
         - 스타벅스 웹사이트 매장 지역검색 셀레니움 데이터 수집
         - 서울열린데이터광장 행정구역, 인구, 사업체 데이터 수집
 
-<img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-python-2023/main/images/crawling06.png" width="700" alt="스타벅스">
+<img src="https://raw.githubusercontent.com/hugoMGSung/works-need-it-data-analysis/main/bigdata-python-2023/images/crawling06.png" width="700" alt="스타벅스">
 
 ## 13일차
 - 파이썬 데이터분석 실습
@@ -110,19 +110,19 @@
 - 파이썬 데이터분석 실습
     - 환경관련 데이터 분석
 
-<img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-python-2023/main/images/crawling07.png" width="700" alt="미세먼지당 산점도">
+<img src="https://raw.githubusercontent.com/hugoMGSung/works-need-it-data-analysis/main/bigdata-python-2023/images/crawling07.png" width="700" alt="미세먼지당 산점도">
     
 ## 17, 18일차
 - 파이썬 데이터분석 실습
     - 주식시세 분석(시계열데이터)
     - 애플주가 예측
 
-<img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-python-2023/main/images/crawling08.png" width="700" alt="삼성전자 주가">
+<img src="https://raw.githubusercontent.com/hugoMGSung/works-need-it-data-analysis/main/bigdata-python-2023/images/crawling08.png" width="700" alt="삼성전자 주가">
 
-<img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-python-2023/main/images/crawling09.png" width="700" alt="애플주가">
+<img src="https://raw.githubusercontent.com/hugoMGSung/works-need-it-data-analysis/main/bigdata-python-2023/images/crawling09.png" width="700" alt="애플주가">
 
 ## 20일차
 - 파이썬 데이터분석 실습
     - 영화리뷰 워드클라우드 시각화
 
-<img src="https://raw.githubusercontent.com/hugoMGSung/bigdata-python-2023/main/images/crawling10.png" width="700" alt="영화리뷰 워드클라우드">    
+<img src="https://raw.githubusercontent.com/hugoMGSung/works-need-it-data-analysis/main/bigdata-python-2023/images/crawling10.png" width="700" alt="영화리뷰 워드클라우드">    
