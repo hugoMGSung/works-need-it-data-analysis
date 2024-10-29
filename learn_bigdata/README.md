@@ -10,3 +10,5 @@
 - [링크]()
     - python, re, requests 모듈사용으로 크롤링
     - search.daum.net/robots.txt로 확인우선
+
+    - 멀티스레드로 속도 개선
