@@ -27,3 +27,16 @@ with https://github.com/rickiepark/hg-mldl
 - 딥러닝 학습
     - Artificial Neural Network
     - CNN
+
+## day 4
+- 딥러닝 학습
+    - 인공신경망
+    - 심층신경망
+    - 신경망 모델 훈련
+    - CNN
+    - Fashion MNIST
+
+## day 5
+- 딥러닝 학습
+    - 순환신경망 IMDB 리뷰 분류
+    - CIFAR100
