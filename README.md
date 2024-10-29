@@ -26,7 +26,9 @@
 ### 부산 초등학교 학생수 분석
 - [링크](https://github.com/hugoMGSung/works-need-it-data-analysis/tree/main/hugo-personal-project-2024)
 
+### 응용 연습
+- [링크](https://github.com/hugoMGSung/works-need-it-data-analysis/tree/main/learn_bigdata)
+
 ## 고급
 
-### Beautifulsoup으로 이미지 크롤링 안될 경우
-- [링크](https://github.com/hugoMGSung/works-need-it-data-analysis/tree/main/learn_bigdata)
+...
