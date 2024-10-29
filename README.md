@@ -6,6 +6,9 @@
 ### 2022 빅데이터 분석가 과정 
 - [링크](https://github.com/hugoMGSung/works-need-it-data-analysis/tree/main/study_bigdata)
 
+### 2022 빅데이터 분석가 과정 머신러닝
+- [링크](https://github.com/hugoMGSung/works-need-it-data-analysis/tree/main/StudyML)
+
 ### 2022 부산정보진흥원 머신러닝 과정
 - [링크](https://github.com/hugoMGSung/works-need-it-data-analysis/tree/main/practice_first/machine_learning)
 
@@ -24,3 +27,6 @@
 - [링크](https://github.com/hugoMGSung/works-need-it-data-analysis/tree/main/hugo-personal-project-2024)
 
 ## 고급
+
+### Beautifulsoup으로 이미지 크롤링 안될 경우
+- [링크](https://github.com/hugoMGSung/works-need-it-data-analysis/tree/main/learn_bigdata)
