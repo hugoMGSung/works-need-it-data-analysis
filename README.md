@@ -6,6 +6,9 @@
 ### 2022 빅데이터 분석가 과정 
 - [링크](https://github.com/hugoMGSung/works-need-it-data-analysis/tree/main/study_bigdata)
 
+### 2022 부산정보진흥원 머신러닝 과정
+- [링크](https://github.com/hugoMGSung/works-need-it-data-analysis/tree/main/practice_first/machine_learning)
+
 ### 2023 데이터 분석(3일 과정)
 - [링크](https://github.com/hugoMGSung/works-need-it-data-analysis/tree/main/bigdata-analysis-2023)
 
