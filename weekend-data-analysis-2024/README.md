@@ -3,11 +3,15 @@
 ### Day 01
 - 빅데이터 파이썬 학습
     - 기본 개발환경
+        - Anaconda, PyCharm, Visual Studio, etc... IDE툴 활용가능
+        - Visual Studio Code 사용
     - 파이썬 학습
+        - 신규파일 생성
+            - 새파일 생성 *.py
+            - *.ipynb, 명령팔레트 (Ctrl + Shift + P) > Create 새 Jupyter Notebook 선택 > 1차 저장
         - 기본 콘솔출력
-        - 변수, 자료형
-        - 연산자
-        - 흐름제어
+        - 변수, 자료형, 연산자
+        - 흐름제어(if else, for, while)
         - 함수
         - 패키지, 모듈
     - 데이터 입출력
