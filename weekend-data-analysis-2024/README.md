@@ -14,8 +14,11 @@
         - 흐름제어(if else, for, while)
         - 함수
         - 패키지, 모듈
-    - 데이터 입출력
+    - Matplotlib 데이터 입출력
     - [참조](https://youneedawiki.com/app/page/1wj2NxUqCgWYBlHSk0U1_q2EYDnFX6LwO?p=1wsnKDXabPNexd77rGhjdBLAgdFtMhF5s)
+
+    - 코랩(Colab) - 주피터노트북을 가지고 상용화한 구글 제품
+        - https://colab.google/
 
 ### Day 02
 - 빅데이터 라이브러리 활용
