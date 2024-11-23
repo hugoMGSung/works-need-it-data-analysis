@@ -22,14 +22,16 @@
 
 ### Day 02
 - 빅데이터 라이브러리 활용
-    - 분석용 라이브러리
-        - Numpy
-        - Pandas(!)
-        - Matplotlib
-        - Seaborn
-        - Selenium
-        - BeautifulSoup
-        - etc
+    - 분석용 라이브러리        
+        - Pandas 활용 OpenAPI 작업
+    - 정적/동적 웹페이지 크롤링
+        - BeautifulSoup 사용법        
+        - Selenium 사용법
+    - 지도 라이브러리
+        - folium - leaflet.js 자바스크립트 지도 라이브러리를 파이썬으로 wrapping
+    
+- 빅데이터 전처리
+    - 판다스 전처리 기능 학습
 
 ### Day 03
 - 데이터분석 활용 실습
