@@ -129,3 +129,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 study_bigdata/day06/data/소상공인시장진흥공단_상가(상권)정보_서울_202409.csv
+weekend-data-analysis-2024/day03/data/소상공인시장진흥공단_상가(상권)정보_서울_202409.csv
