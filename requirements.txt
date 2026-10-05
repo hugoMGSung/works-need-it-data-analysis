@@ -1,0 +1,8 @@
+﻿# CSV 데이터 분석 및 위치 시각화용
+pandas
+folium
+
+# Jupyter 노트북 실행
+jupyterlab
+notebook
+ipykernel
